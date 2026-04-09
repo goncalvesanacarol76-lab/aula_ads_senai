@@ -1,1 +1,2 @@
-# aula_ads_senai
+# meu primeiro repositório
+Estudando no Senai
